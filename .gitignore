@@ -1,0 +1,39 @@
+# VS Code and Python
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.python-version
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython history
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files
+*.pkl
+
+# Data files (CSV inputs & outputs)
+data/*.csv
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Compiled apps / Streamlit cache
+.streamlit/
+*.pyc
+
+# Git control (just in case)
+.git/
