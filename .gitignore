@@ -20,11 +20,8 @@ Thumbs.db
 .ipynb_checkpoints/
 *.ipynb
 
-# Model files
-*.pkl
 
-# Data files (CSV inputs & outputs)
-data/*.csv
+
 
 # Logs and temp
 *.log
