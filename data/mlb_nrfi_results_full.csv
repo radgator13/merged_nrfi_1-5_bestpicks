@@ -448,4 +448,146 @@ Game Date,Away Team,Home Team,Away_NRFI_Batting_Rate,Home_NRFI_Pitching_Rate,Pre
 2025-04-29,Kansas City Royals,Tampa Bay Rays,70.0,67.86,47.5,1.0,0.0,1.0,❌ MISS
 2025-04-29,Athletics,Texas Rangers,75.0,78.57,58.93,0.0,0.0,0.0,✅ HIT
 2025-04-29,Boston Red Sox,Toronto Blue Jays,65.62,66.67,43.75,2.0,0.0,2.0,❌ MISS
+2025-04-30,New York Yankees,Baltimore Orioles,58.62,62.07,36.39,2.0,0.0,2.0,❌ MISS
+2025-04-30,Milwaukee Brewers,Chicago White Sox,82.76,64.29,53.21,2.0,0.0,2.0,❌ MISS
 2025-04-30,St. Louis Cardinals,Cincinnati Reds,82.76,78.57,65.02,1.0,0.0,1.0,❌ MISS
+2025-04-30,St. Louis Cardinals,Cincinnati Reds,82.76,78.57,65.02,3.0,0.0,3.0,❌ MISS
+2025-04-30,Minnesota Twins,Cleveland Guardians,71.43,64.29,45.92,0.0,0.0,0.0,✅ HIT
+2025-04-30,Atlanta Braves,Colorado Rockies,71.43,65.52,46.8,0.0,0.0,0.0,✅ HIT
+2025-04-30,Detroit Tigers,Houston Astros,68.97,74.07,51.09,0.0,1.0,1.0,❌ MISS
+2025-04-30,Miami Marlins,Los Angeles Dodgers,75.0,65.38,49.04,0.0,0.0,0.0,✅ HIT
+2025-04-30,Arizona Diamondbacks,New York Mets,64.29,89.29,57.4,0.0,0.0,0.0,✅ HIT
+2025-04-30,Washington Nationals,Philadelphia Phillies,68.97,78.57,54.19,0.0,3.0,3.0,❌ MISS
+2025-04-30,Chicago Cubs,Pittsburgh Pirates,74.07,86.21,63.86,0.0,1.0,1.0,❌ MISS
+2025-04-30,San Francisco Giants,San Diego Padres,75.86,75.0,56.9,0.0,0.0,0.0,✅ HIT
+2025-04-30,Los Angeles Angels,Seattle Mariners,70.37,67.86,47.75,1.0,0.0,1.0,❌ MISS
+2025-04-30,Kansas City Royals,Tampa Bay Rays,70.0,67.86,47.5,2.0,0.0,2.0,❌ MISS
+2025-04-30,Athletics,Texas Rangers,75.0,78.57,58.93,0.0,0.0,0.0,✅ HIT
+2025-04-30,Boston Red Sox,Toronto Blue Jays,65.62,66.67,43.75,2.0,0.0,2.0,❌ MISS
+2025-05-01,Milwaukee Brewers,Chicago White Sox,82.76,64.29,53.21,0.0,1.0,1.0,❌ MISS
+2025-05-01,St. Louis Cardinals,Cincinnati Reds,82.76,78.57,65.02,0.0,0.0,0.0,✅ HIT
+2025-05-01,Minnesota Twins,Cleveland Guardians,71.43,64.29,45.92,0.0,1.0,1.0,❌ MISS
+2025-05-01,Detroit Tigers,Los Angeles Angels,68.97,59.26,40.87,0.0,0.0,0.0,✅ HIT
+2025-05-01,Arizona Diamondbacks,New York Mets,64.29,89.29,57.4,0.0,0.0,0.0,✅ HIT
+2025-05-01,Washington Nationals,Philadelphia Phillies,68.97,78.57,54.19,0.0,0.0,0.0,✅ HIT
+2025-05-01,Chicago Cubs,Pittsburgh Pirates,74.07,86.21,63.86,0.0,1.0,1.0,❌ MISS
+2025-05-01,Colorado Rockies,San Francisco Giants,82.76,65.52,54.22,0.0,1.0,1.0,❌ MISS
+2025-05-01,Kansas City Royals,Tampa Bay Rays,70.0,67.86,47.5,0.0,1.0,1.0,❌ MISS
+2025-05-01,Athletics,Texas Rangers,75.0,78.57,58.93,1.0,0.0,1.0,❌ MISS
+2025-05-01,Boston Red Sox,Toronto Blue Jays,65.62,66.67,43.75,0.0,0.0,0.0,✅ HIT
+2025-05-02,Los Angeles Dodgers,Atlanta Braves,69.23,64.29,44.51,0.0,0.0,0.0,✅ HIT
+2025-05-02,Kansas City Royals,Baltimore Orioles,70.0,62.07,43.45,0.0,0.0,0.0,✅ HIT
+2025-05-02,Minnesota Twins,Boston Red Sox,71.43,62.5,44.64,0.0,1.0,1.0,❌ MISS
+2025-05-02,Houston Astros,Chicago White Sox,85.19,64.29,54.77,0.0,1.0,1.0,❌ MISS
+2025-05-02,Washington Nationals,Cincinnati Reds,68.97,78.57,54.19,0.0,2.0,2.0,❌ MISS
+2025-05-02,Detroit Tigers,Los Angeles Angels,68.97,59.26,40.87,0.0,1.0,1.0,❌ MISS
+2025-05-02,Athletics,Miami Marlins,75.0,75.0,56.25,0.0,0.0,0.0,✅ HIT
+2025-05-02,Chicago Cubs,Milwaukee Brewers,74.07,72.41,53.63,2.0,0.0,2.0,❌ MISS
+2025-05-02,Tampa Bay Rays,New York Yankees,78.57,82.76,65.02,0.0,0.0,0.0,✅ HIT
+2025-05-02,Arizona Diamondbacks,Philadelphia Phillies,64.29,78.57,50.51,0.0,1.0,1.0,❌ MISS
+2025-05-02,San Diego Padres,Pittsburgh Pirates,64.29,86.21,55.42,0.0,0.0,0.0,✅ HIT
+2025-05-02,Colorado Rockies,San Francisco Giants,82.76,65.52,54.22,0.0,0.0,0.0,✅ HIT
+2025-05-02,New York Mets,St. Louis Cardinals,75.0,72.41,54.31,0.0,1.0,1.0,❌ MISS
+2025-05-02,Seattle Mariners,Texas Rangers,64.29,78.57,50.51,0.0,0.0,0.0,✅ HIT
+2025-05-02,Cleveland Guardians,Toronto Blue Jays,71.43,66.67,47.62,0.0,0.0,0.0,✅ HIT
+2025-05-03,Los Angeles Dodgers,Atlanta Braves,69.23,64.29,44.51,0.0,0.0,0.0,✅ HIT
+2025-05-03,Kansas City Royals,Baltimore Orioles,70.0,62.07,43.45,0.0,0.0,0.0,✅ HIT
+2025-05-03,Minnesota Twins,Boston Red Sox,71.43,62.5,44.64,0.0,0.0,0.0,✅ HIT
+2025-05-03,Houston Astros,Chicago White Sox,85.19,64.29,54.77,0.0,3.0,3.0,❌ MISS
+2025-05-03,Washington Nationals,Cincinnati Reds,68.97,78.57,54.19,2.0,2.0,4.0,❌ MISS
+2025-05-03,Detroit Tigers,Los Angeles Angels,68.97,59.26,40.87,0.0,0.0,0.0,✅ HIT
+2025-05-03,Athletics,Miami Marlins,75.0,75.0,56.25,1.0,0.0,1.0,❌ MISS
+2025-05-03,Chicago Cubs,Milwaukee Brewers,74.07,72.41,53.63,1.0,0.0,1.0,❌ MISS
+2025-05-03,Tampa Bay Rays,New York Yankees,78.57,82.76,65.02,0.0,1.0,1.0,❌ MISS
+2025-05-03,Arizona Diamondbacks,Philadelphia Phillies,64.29,78.57,50.51,0.0,0.0,0.0,✅ HIT
+2025-05-03,San Diego Padres,Pittsburgh Pirates,64.29,86.21,55.42,0.0,0.0,0.0,✅ HIT
+2025-05-03,Colorado Rockies,San Francisco Giants,82.76,65.52,54.22,0.0,0.0,0.0,✅ HIT
+2025-05-03,New York Mets,St. Louis Cardinals,75.0,72.41,54.31,,,0.0,✅ HIT
+2025-05-03,Seattle Mariners,Texas Rangers,64.29,78.57,50.51,1.0,0.0,1.0,❌ MISS
+2025-05-03,Cleveland Guardians,Toronto Blue Jays,71.43,66.67,47.62,0.0,1.0,1.0,❌ MISS
+2025-05-04,Los Angeles Dodgers,Atlanta Braves,69.23,64.29,44.51,0.0,2.0,2.0,❌ MISS
+2025-05-04,Kansas City Royals,Baltimore Orioles,70.0,62.07,43.45,0.0,0.0,0.0,✅ HIT
+2025-05-04,Minnesota Twins,Boston Red Sox,71.43,62.5,44.64,1.0,0.0,1.0,❌ MISS
+2025-05-04,Houston Astros,Chicago White Sox,85.19,64.29,54.77,0.0,0.0,0.0,✅ HIT
+2025-05-04,Washington Nationals,Cincinnati Reds,68.97,78.57,54.19,0.0,0.0,0.0,✅ HIT
+2025-05-04,Detroit Tigers,Los Angeles Angels,68.97,59.26,40.87,0.0,0.0,0.0,✅ HIT
+2025-05-04,Athletics,Miami Marlins,75.0,75.0,56.25,0.0,0.0,0.0,✅ HIT
+2025-05-04,Chicago Cubs,Milwaukee Brewers,74.07,72.41,53.63,0.0,0.0,0.0,✅ HIT
+2025-05-04,Tampa Bay Rays,New York Yankees,78.57,82.76,65.02,0.0,0.0,0.0,✅ HIT
+2025-05-04,Arizona Diamondbacks,Philadelphia Phillies,64.29,78.57,50.51,0.0,1.0,1.0,❌ MISS
+2025-05-04,San Diego Padres,Pittsburgh Pirates,64.29,86.21,55.42,1.0,0.0,1.0,❌ MISS
+2025-05-04,Colorado Rockies,San Francisco Giants,82.76,65.52,54.22,0.0,1.0,1.0,❌ MISS
+2025-05-04,New York Mets,St. Louis Cardinals,75.0,72.41,54.31,1.0,0.0,1.0,❌ MISS
+2025-05-04,New York Mets,St. Louis Cardinals,75.0,72.41,54.31,0.0,0.0,0.0,✅ HIT
+2025-05-04,Seattle Mariners,Texas Rangers,64.29,78.57,50.51,0.0,0.0,0.0,✅ HIT
+2025-05-04,Cleveland Guardians,Toronto Blue Jays,71.43,66.67,47.62,0.0,0.0,0.0,✅ HIT
+2025-05-05,New York Mets,Arizona Diamondbacks,75.0,64.29,48.22,0.0,1.0,1.0,❌ MISS
+2025-05-05,Seattle Mariners,Athletics,64.29,64.29,41.33,0.0,1.0,1.0,❌ MISS
+2025-05-05,Cincinnati Reds,Atlanta Braves,71.43,64.29,45.92,0.0,0.0,0.0,✅ HIT
+2025-05-05,San Francisco Giants,Chicago Cubs,75.86,77.78,59.0,0.0,0.0,0.0,✅ HIT
+2025-05-05,Chicago White Sox,Kansas City Royals,64.29,93.33,60.0,0.0,0.0,0.0,✅ HIT
+2025-05-05,Los Angeles Dodgers,Miami Marlins,69.23,75.0,51.92,1.0,0.0,1.0,❌ MISS
+2025-05-05,Houston Astros,Milwaukee Brewers,85.19,72.41,61.69,0.0,0.0,0.0,✅ HIT
+2025-05-05,San Diego Padres,New York Yankees,64.29,82.76,53.21,0.0,0.0,0.0,✅ HIT
+2025-05-05,Pittsburgh Pirates,St. Louis Cardinals,75.86,72.41,54.93,2.0,0.0,2.0,❌ MISS
+2025-05-05,Cleveland Guardians,Washington Nationals,71.43,79.31,56.65,,,0.0,✅ HIT
+2025-05-06,New York Mets,Arizona Diamondbacks,75.0,64.29,48.22,0.0,0.0,0.0,✅ HIT
+2025-05-06,Seattle Mariners,Athletics,64.29,64.29,41.33,1.0,1.0,2.0,❌ MISS
+2025-05-06,Cincinnati Reds,Atlanta Braves,71.43,64.29,45.92,0.0,0.0,0.0,✅ HIT
+2025-05-06,Texas Rangers,Boston Red Sox,71.43,62.5,44.64,1.0,0.0,1.0,❌ MISS
+2025-05-06,San Francisco Giants,Chicago Cubs,75.86,77.78,59.0,0.0,0.0,0.0,✅ HIT
+2025-05-06,Detroit Tigers,Colorado Rockies,68.97,65.52,45.19,,,0.0,✅ HIT
+2025-05-06,Chicago White Sox,Kansas City Royals,64.29,93.33,60.0,0.0,0.0,0.0,✅ HIT
+2025-05-06,Toronto Blue Jays,Los Angeles Angels,76.67,59.26,45.43,2.0,2.0,4.0,❌ MISS
+2025-05-06,Los Angeles Dodgers,Miami Marlins,69.23,75.0,51.92,1.0,0.0,1.0,❌ MISS
+2025-05-06,Houston Astros,Milwaukee Brewers,85.19,72.41,61.69,0.0,4.0,4.0,❌ MISS
+2025-05-06,Baltimore Orioles,Minnesota Twins,65.52,60.71,39.78,0.0,0.0,0.0,✅ HIT
+2025-05-06,San Diego Padres,New York Yankees,64.29,82.76,53.21,0.0,0.0,0.0,✅ HIT
+2025-05-06,Pittsburgh Pirates,St. Louis Cardinals,75.86,72.41,54.93,0.0,0.0,0.0,✅ HIT
+2025-05-06,Philadelphia Phillies,Tampa Bay Rays,67.86,67.86,46.05,0.0,0.0,0.0,✅ HIT
+2025-05-06,Cleveland Guardians,Washington Nationals,71.43,79.31,56.65,1.0,1.0,2.0,❌ MISS
+2025-05-06,Cleveland Guardians,Washington Nationals,71.43,79.31,56.65,0.0,0.0,0.0,✅ HIT
+2025-05-07,New York Mets,Arizona Diamondbacks,75.0,64.29,48.22,0.0,0.0,0.0,✅ HIT
+2025-05-07,Seattle Mariners,Athletics,64.29,64.29,41.33,0.0,3.0,3.0,❌ MISS
+2025-05-07,Cincinnati Reds,Atlanta Braves,71.43,64.29,45.92,2.0,0.0,2.0,❌ MISS
+2025-05-07,Texas Rangers,Boston Red Sox,71.43,62.5,44.64,0.0,0.0,0.0,✅ HIT
+2025-05-07,San Francisco Giants,Chicago Cubs,75.86,77.78,59.0,1.0,0.0,1.0,❌ MISS
+2025-05-07,Detroit Tigers,Colorado Rockies,68.97,65.52,45.19,0.0,2.0,2.0,❌ MISS
+2025-05-07,Chicago White Sox,Kansas City Royals,64.29,93.33,60.0,0.0,0.0,0.0,✅ HIT
+2025-05-07,Toronto Blue Jays,Los Angeles Angels,76.67,59.26,45.43,0.0,0.0,0.0,✅ HIT
+2025-05-07,Los Angeles Dodgers,Miami Marlins,69.23,75.0,51.92,0.0,0.0,0.0,✅ HIT
+2025-05-07,Houston Astros,Milwaukee Brewers,85.19,72.41,61.69,0.0,0.0,0.0,✅ HIT
+2025-05-07,Baltimore Orioles,Minnesota Twins,65.52,60.71,39.78,0.0,0.0,0.0,✅ HIT
+2025-05-07,San Diego Padres,New York Yankees,64.29,82.76,53.21,0.0,0.0,0.0,✅ HIT
+2025-05-07,Pittsburgh Pirates,St. Louis Cardinals,75.86,72.41,54.93,0.0,0.0,0.0,✅ HIT
+2025-05-07,Philadelphia Phillies,Tampa Bay Rays,67.86,67.86,46.05,0.0,0.0,0.0,✅ HIT
+2025-05-07,Cleveland Guardians,Washington Nationals,71.43,79.31,56.65,0.0,0.0,0.0,✅ HIT
+2025-05-10,Los Angeles Dodgers,Arizona Diamondbacks,69.23,64.29,44.51,0.0,0.0,0.0,✅ HIT
+2025-05-10,New York Yankees,Athletics,58.62,64.29,37.69,0.0,0.0,0.0,✅ HIT
+2025-05-10,Miami Marlins,Chicago White Sox,75.0,64.29,48.22,0.0,1.0,1.0,❌ MISS
+2025-05-10,Philadelphia Phillies,Cleveland Guardians,67.86,64.29,43.63,0.0,0.0,0.0,✅ HIT
+2025-05-10,San Diego Padres,Colorado Rockies,64.29,65.52,42.12,5.0,0.0,5.0,❌ MISS
+2025-05-10,Texas Rangers,Detroit Tigers,71.43,79.31,56.65,2.0,1.0,3.0,❌ MISS
+2025-05-10,Cincinnati Reds,Houston Astros,71.43,74.07,52.91,10.0,1.0,11.0,❌ MISS
+2025-05-10,Boston Red Sox,Kansas City Royals,65.62,93.33,61.24,0.0,0.0,0.0,✅ HIT
+2025-05-10,Baltimore Orioles,Los Angeles Angels,65.52,59.26,38.83,0.0,2.0,2.0,❌ MISS
+2025-05-10,San Francisco Giants,Minnesota Twins,75.86,60.71,46.05,0.0,0.0,0.0,✅ HIT
+2025-05-10,Chicago Cubs,New York Mets,74.07,89.29,66.14,2.0,0.0,2.0,❌ MISS
+2025-05-10,Atlanta Braves,Pittsburgh Pirates,71.43,86.21,61.58,0.0,0.0,0.0,✅ HIT
+2025-05-10,Toronto Blue Jays,Seattle Mariners,76.67,67.86,52.03,0.0,0.0,0.0,✅ HIT
+2025-05-10,Milwaukee Brewers,Tampa Bay Rays,82.76,67.86,56.16,0.0,0.0,0.0,✅ HIT
+2025-05-10,St. Louis Cardinals,Washington Nationals,82.76,79.31,65.64,0.0,0.0,0.0,✅ HIT
+2025-05-11,Los Angeles Dodgers,Arizona Diamondbacks,69.23,64.29,44.51,1.0,0.0,1.0,❌ MISS
+2025-05-11,New York Yankees,Athletics,58.62,64.29,37.69,0.0,0.0,0.0,✅ HIT
+2025-05-11,Miami Marlins,Chicago White Sox,75.0,64.29,48.22,0.0,0.0,0.0,✅ HIT
+2025-05-11,San Diego Padres,Colorado Rockies,64.29,65.52,42.12,1.0,3.0,4.0,❌ MISS
+2025-05-11,Texas Rangers,Detroit Tigers,71.43,79.31,56.65,0.0,0.0,0.0,✅ HIT
+2025-05-11,Cincinnati Reds,Houston Astros,71.43,74.07,52.91,0.0,0.0,0.0,✅ HIT
+2025-05-11,Boston Red Sox,Kansas City Royals,65.62,93.33,61.24,0.0,0.0,0.0,✅ HIT
+2025-05-11,Baltimore Orioles,Los Angeles Angels,65.52,59.26,38.83,1.0,2.0,3.0,❌ MISS
+2025-05-11,San Francisco Giants,Minnesota Twins,75.86,60.71,46.05,1.0,0.0,1.0,❌ MISS
+2025-05-11,Chicago Cubs,New York Mets,74.07,89.29,66.14,0.0,0.0,0.0,✅ HIT
+2025-05-11,Atlanta Braves,Pittsburgh Pirates,71.43,86.21,61.58,0.0,0.0,0.0,✅ HIT
+2025-05-11,Toronto Blue Jays,Seattle Mariners,76.67,67.86,52.03,0.0,0.0,0.0,✅ HIT
+2025-05-11,Milwaukee Brewers,Tampa Bay Rays,82.76,67.86,56.16,0.0,1.0,1.0,❌ MISS
+2025-05-11,St. Louis Cardinals,Washington Nationals,82.76,79.31,65.64,1.0,0.0,1.0,❌ MISS

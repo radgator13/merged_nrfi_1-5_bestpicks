@@ -900,29 +900,44 @@ Game Date,Away Team,Home Team,Target_Line,Predicted_Runs_1to5,Predicted_Over_4_5
 2025-04-29,san francisco giants,san diego padres,4.5,4.9869642857142855,Over,6,Over,"('2025-04-29', 'san francisco giants', 'san diego padres')"
 2025-04-29,los angeles angels,seattle mariners,4.5,4.977,Over,3,Under,"('2025-04-29', 'los angeles angels', 'seattle mariners')"
 2025-04-29,athletics,texas rangers,4.5,4.111064935064936,Under,4,Under,"('2025-04-29', 'athletics', 'texas rangers')"
-2025-04-30,new york yankees,baltimore orioles,4.5,5.21,Over,Pending,Pending,
-2025-04-30,milwaukee brewers,chicago white sox,4.5,5.27,Over,Pending,Pending,
-2025-04-30,st. louis cardinals,cincinnati reds,4.5,5.57,Over,Pending,Pending,
-2025-04-30,minnesota twins,cleveland guardians,4.5,5.27,Over,Pending,Pending,
-2025-04-30,atlanta braves,colorado rockies,4.5,3.92,Under,Pending,Pending,
-2025-04-30,detroit tigers,houston astros,4.5,5.8100000000000005,Over,Pending,Pending,
-2025-04-30,miami marlins,los angeles dodgers,4.5,3.83,Under,Pending,Pending,
-2025-04-30,arizona diamondbacks,new york mets,4.5,4.609999999999999,No Bet,Pending,Pending,
-2025-04-30,washington nationals,philadelphia phillies,4.5,5.18,Over,Pending,Pending,
-2025-04-30,chicago cubs,pittsburgh pirates,4.5,5.93,Over,Pending,Pending,
-2025-04-30,san francisco giants,san diego padres,4.5,4.25,No Bet,Pending,Pending,
-2025-04-30,los angeles angels,seattle mariners,4.5,5.93,Over,Pending,Pending,
-2025-04-30,kansas city royals,tampa bay rays,4.5,6.2,Over,Pending,Pending,
-2025-04-30,athletics,texas rangers,4.5,6.140000000000001,Over,Pending,Pending,
-2025-04-30,boston red sox,toronto blue jays,4.5,4.52,No Bet,Pending,Pending,
-2025-05-01,milwaukee brewers,chicago white sox,4.5,5.27,Over,Pending,Pending,
-2025-05-01,st. louis cardinals,cincinnati reds,4.5,5.359999999999999,Over,Pending,Pending,
-2025-05-01,minnesota twins,cleveland guardians,4.5,5.15,Over,Pending,Pending,
-2025-05-01,detroit tigers,los angeles angels,4.5,4.94,Over,Pending,Pending,
-2025-05-01,arizona diamondbacks,new york mets,4.5,4.49,No Bet,Pending,Pending,
-2025-05-01,washington nationals,philadelphia phillies,4.5,4.94,Over,Pending,Pending,
-2025-05-01,chicago cubs,pittsburgh pirates,4.5,5.69,Over,Pending,Pending,
-2025-05-01,colorado rockies,san francisco giants,4.5,5.12,Over,Pending,Pending,
+2025-04-30,new york yankees,baltimore orioles,4.5,5.21,Over,8,Over,"('2025-04-30', 'new york yankees', 'baltimore orioles')"
+2025-04-30,milwaukee brewers,chicago white sox,4.5,5.27,Over,6,Over,"('2025-04-30', 'milwaukee brewers', 'chicago white sox')"
+2025-04-30,st. louis cardinals,cincinnati reds,4.5,5.57,Over,9,Over,"('2025-04-30', 'st. louis cardinals', 'cincinnati reds')"
+2025-04-30,minnesota twins,cleveland guardians,4.5,5.27,Over,Pending,Pending,"('2025-04-30', 'minnesota twins', 'cleveland guardians')"
+2025-04-30,atlanta braves,colorado rockies,4.5,3.92,Under,3,Under,"('2025-04-30', 'atlanta braves', 'colorado rockies')"
+2025-04-30,detroit tigers,houston astros,4.5,5.8100000000000005,Over,10,Over,"('2025-04-30', 'detroit tigers', 'houston astros')"
+2025-04-30,miami marlins,los angeles dodgers,4.5,3.83,Under,6,Over,"('2025-04-30', 'miami marlins', 'los angeles dodgers')"
+2025-04-30,arizona diamondbacks,new york mets,4.5,4.609999999999999,No Bet,1,Under,"('2025-04-30', 'arizona diamondbacks', 'new york mets')"
+2025-04-30,washington nationals,philadelphia phillies,4.5,5.18,Over,7,Over,"('2025-04-30', 'washington nationals', 'philadelphia phillies')"
+2025-04-30,chicago cubs,pittsburgh pirates,4.5,5.93,Over,5,Over,"('2025-04-30', 'chicago cubs', 'pittsburgh pirates')"
+2025-04-30,san francisco giants,san diego padres,4.5,4.25,No Bet,4,Under,"('2025-04-30', 'san francisco giants', 'san diego padres')"
+2025-04-30,los angeles angels,seattle mariners,4.5,5.93,Over,6,Over,"('2025-04-30', 'los angeles angels', 'seattle mariners')"
+2025-04-30,kansas city royals,tampa bay rays,4.5,6.2,Over,3,Under,"('2025-04-30', 'kansas city royals', 'tampa bay rays')"
+2025-04-30,athletics,texas rangers,4.5,6.140000000000001,Over,2,Under,"('2025-04-30', 'athletics', 'texas rangers')"
+2025-04-30,boston red sox,toronto blue jays,4.5,4.52,No Bet,4,Under,"('2025-04-30', 'boston red sox', 'toronto blue jays')"
+2025-05-01,milwaukee brewers,chicago white sox,4.5,5.51,Over,Pending,Pending,
+2025-05-01,st. louis cardinals,cincinnati reds,4.5,5.15,Over,Pending,Pending,
+2025-05-01,minnesota twins,cleveland guardians,4.5,4.91,Over,Pending,Pending,
+2025-05-01,detroit tigers,los angeles angels,4.5,4.73,No Bet,Pending,Pending,
+2025-05-01,arizona diamondbacks,new york mets,4.5,5.84,Over,Pending,Pending,
+2025-05-01,washington nationals,philadelphia phillies,4.5,4.3100000000000005,No Bet,Pending,Pending,
+2025-05-01,chicago cubs,pittsburgh pirates,4.5,5.87,Over,Pending,Pending,
+2025-05-01,colorado rockies,san francisco giants,4.5,5.3,Over,Pending,Pending,
 2025-05-01,kansas city royals,tampa bay rays,4.5,5.78,Over,Pending,Pending,
-2025-05-01,athletics,texas rangers,4.5,5.84,Over,Pending,Pending,
-2025-05-01,boston red sox,toronto blue jays,4.5,4.4,No Bet,Pending,Pending,
+2025-05-01,athletics,texas rangers,4.5,6.2,Over,Pending,Pending,
+2025-05-01,boston red sox,toronto blue jays,4.5,5.24,Over,Pending,Pending,
+2025-05-02,los angeles dodgers,atlanta braves,4.5,4.52,No Bet,Pending,Pending,
+2025-05-02,kansas city royals,baltimore orioles,4.5,4.34,No Bet,Pending,Pending,
+2025-05-02,minnesota twins,boston red sox,4.5,4.4,No Bet,Pending,Pending,
+2025-05-02,houston astros,chicago white sox,4.5,5.18,Over,Pending,Pending,
+2025-05-02,washington nationals,cincinnati reds,4.5,4.640000000000001,No Bet,Pending,Pending,
+2025-05-02,detroit tigers,los angeles angels,4.5,4.94,Over,Pending,Pending,
+2025-05-02,athletics,miami marlins,4.5,5.390000000000001,Over,Pending,Pending,
+2025-05-02,chicago cubs,milwaukee brewers,4.5,5.72,Over,Pending,Pending,
+2025-05-02,tampa bay rays,new york yankees,4.5,4.67,No Bet,Pending,Pending,
+2025-05-02,arizona diamondbacks,philadelphia phillies,4.5,4.94,Over,Pending,Pending,
+2025-05-02,san diego padres,pittsburgh pirates,4.5,5.09,Over,Pending,Pending,
+2025-05-02,colorado rockies,san francisco giants,4.5,5.48,Over,Pending,Pending,
+2025-05-02,new york mets,st. louis cardinals,4.5,5.9,Over,Pending,Pending,
+2025-05-02,seattle mariners,texas rangers,4.5,5.51,Over,Pending,Pending,
+2025-05-02,cleveland guardians,toronto blue jays,4.5,4.97,Over,Pending,Pending,
